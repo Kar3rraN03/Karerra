@@ -113,7 +113,7 @@ Configure users by going to Agent Panel, selecting Users, and then Add New to ad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Set up SLA (Service Level Agreements) by accessing Admin Panel, then Manage, and selecting SLA, with options like Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours)..
+Set up SLA (Service Level Agreements) by accessing Admin Panel, then Manage, and selecting SLA, with options like Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours).
 </p>
 <br />
 
