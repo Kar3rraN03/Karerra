@@ -63,7 +63,7 @@ Registration Required: Require registration and login to create tickets
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to the Admin Panel, then navigate to Agents and select Roles to configure roles, such as Supreme Admin.
+In the admin panel, navigate to Agents and then Roles. Create a role called "Supreme Admin" to manage all aspects of the system.
 </p>
 <br />
 
@@ -71,7 +71,7 @@ Go to the Admin Panel, then navigate to Agents and select Roles to configure rol
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To set up departments, access Admin Panel, go to Agents, and then choose Departments, like System Administrators..
+Configure additional roles like "System Administrators" for managing departments and teams.
 </p>
 <br />
 
@@ -79,7 +79,7 @@ To set up departments, access Admin Panel, go to Agents, and then choose Departm
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure teams by going to Admin Panel, selecting Agents, and then Teams, such as Level I Support and Level II Support.
+Under Agents in the admin panel, access the Departments section. Set up departments like Level I Support and Level II Support to categorize and streamline ticket handling based on support levels.
 </p>
 <br />
 
@@ -87,16 +87,7 @@ Configure teams by going to Admin Panel, selecting Agents, and then Teams, such 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Allow anyone to create tickets by going to Admin Panel, then Settings, and User Settings, and enable "Registration Required" to require registration and login for ticket creation.
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-To configure agents, access Admin Panel, go to Agents, and click on Add New to add agents like Jane and John..
+Within the Agents section of the admin panel, go to Teams. Create teams such as Level I Support and Level II Support to assign agents to specific support levels and responsibilities.
 </p>
 <br />
 
@@ -105,7 +96,16 @@ To configure agents, access Admin Panel, go to Agents, and click on Add New to a
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure users by going to Agent Panel, selecting Users, and then Add New to add users like Karen and Ken.
+In the admin panel, under Settings and User Settings, enable the option for anyone to create tickets without registration.
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the Agents section of the admin panel, add new agents like Jane and John to handle ticket assignments and resolutions.
 </p>
 <br />
 
@@ -113,7 +113,7 @@ Configure users by going to Agent Panel, selecting Users, and then Add New to ad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Set up SLA (Service Level Agreements) by accessing Admin Panel, then Manage, and selecting SLA, with options like Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours).
+In the Agent Panel, access Users and add new customers like Karen and Ken who will interact with the system to submit tickets and seek assistance
 </p>
 <br />
 
@@ -121,6 +121,17 @@ Set up SLA (Service Level Agreements) by accessing Admin Panel, then Manage, and
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Help Topics by going to Admin Panel, then Manage, and selecting Help Topics, with categories like Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset.
+Navigate to Manage and then SLA in the admin panel. Set up Service Level Agreements (SLAs) such as Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours) to define response and resolution times for different ticket priorities.
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the admin panel, under Manage and Help Topics, create topics like Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset. These topics will help categorize and prioritize incoming tickets based on their nature and urgency.
+</p>
+<br />
+
+
