@@ -68,7 +68,7 @@ In the admin panel, navigate to Agents and then Roles. Create a role called "Sup
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cEOOd1I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure additional roles like "System Administrators" for managing departments and teams.
@@ -87,7 +87,7 @@ Within the Agents section of the admin panel, go to Teams. Create teams such as 
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0sU3rAg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the admin panel, under Settings and User Settings, enable the option for anyone to create tickets without registration.
@@ -116,7 +116,7 @@ In the Agent Panel, access Users and add new customers like Karen and Ken who wi
 <p>
 <img src="https://i.imgur.com/pCbPMrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/XxLe70b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/pCbPMrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/Ne4Lqun.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Navigate to Manage and then SLA in the admin panel. Set up Service Level Agreements (SLAs) such as Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours) to define response and resolution times for different ticket priorities.
@@ -125,8 +125,10 @@ Navigate to Manage and then SLA in the admin panel. Set up Service Level Agreeme
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://i.imgur.com/ns9Etrr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4Slci7v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/xpfDPLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/6k5fn6k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 In the admin panel, under Manage and Help Topics, create topics like Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset. These topics will help categorize and prioritize incoming tickets based on their nature and urgency.
 </p>
