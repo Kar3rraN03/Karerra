@@ -60,7 +60,7 @@ Registration Required: Require registration and login to create tickets
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6h3Yli3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the admin panel, navigate to Agents and then Roles. Create a role called "Supreme Admin" to manage all aspects of the system.
@@ -75,16 +75,10 @@ Configure additional roles like "System Administrators" for managing departments
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Under Agents in the admin panel, access the Departments section. Set up departments like Level I Support and Level II Support to categorize and streamline ticket handling based on support levels.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YwDbECq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/dDiXX1U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Within the Agents section of the admin panel, go to Teams. Create teams such as Level I Support and Level II Support to assign agents to specific support levels and responsibilities.
@@ -102,7 +96,8 @@ In the admin panel, under Settings and User Settings, enable the option for anyo
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FQAbQii.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/YhjaKzm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Agents section of the admin panel, add new agents like Jane and John to handle ticket assignments and resolutions.
@@ -119,7 +114,9 @@ In the Agent Panel, access Users and add new customers like Karen and Ken who wi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pCbPMrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/XxLe70b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/pCbPMrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Navigate to Manage and then SLA in the admin panel. Set up Service Level Agreements (SLAs) such as Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours) to define response and resolution times for different ticket priorities.
