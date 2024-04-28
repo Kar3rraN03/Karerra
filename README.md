@@ -110,7 +110,8 @@ In the Agents section of the admin panel, add new agents like Jane and John to h
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tujAd5w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/iLf3ZAJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Agent Panel, access Users and add new customers like Karen and Ken who will interact with the system to submit tickets and seek assistance
